@@ -1,0 +1,11 @@
+#bkgrdimage {
+
+    background-image:url ('image.png');
+
+    display:block;
+
+    height: 1000px;px;       (image height)
+
+    width: 1000px;px;        (image width)
+
+    text-indent:-9999px;   
